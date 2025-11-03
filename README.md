@@ -8,7 +8,7 @@
 
 ## About Me
 
-Detail-oriented and motivated Computer Science Engineering graduate with strong foundational knowledge in software development, machine learning, and cloud technologies. I have hands-on experience developing and deploying machine learning models, working with container-based environments, and leveraging major cloud platforms like AWS and Google Cloud. I'm proficient in Python and C, with practical exposure to network protocols and system design. I'm passionate about problem-solving and eager to contribute to innovative projects in dynamic technology environments while continuously learning and upskilling to stay current with industry advancements.
+Hey there 👋 I’m a CSE graduate who loves building things with code. My interests span software development, machine learning, and cloud technologies. I’ve worked on projects involving ML model deployment, containerized apps, and cloud setups on AWS and Google Cloud. I mostly code in Python and C, and I enjoy experimenting with system design, networking, and automation. Always learning, always building — trying to turn ideas into something real.
 
 ---
 
