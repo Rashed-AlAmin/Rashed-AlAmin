@@ -1,100 +1,51 @@
-# MD Rashed Al Amin
+# Hey, I'm Rashed 👋
 
-**Computer Science Engineering Graduate | Full-Stack Developer | Machine Learning Enthusiast**
+Full-Stack Developer and CS graduate from CUET. I build production-grade web apps focused on clean API design, real-time systems, and scalable backends.
 
-📱 01570204436 | 📧 rashedalamin69@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/md-rashed-al-amin) | 💻 [GitHub](https://github.com/Rashed-AlAmin)
-
----
-
-## About Me
-
-Hey there 👋 I’m a CSE graduate who loves building things with code. My interests span software development, machine learning, and cloud technologies. I’ve worked on projects involving ML model deployment, containerized apps, and cloud setups on AWS and Google Cloud. I mostly code in Python and C, and I enjoy experimenting with system design, networking, and automation. Always learning, always building — trying to turn ideas into something real.
+📧 rashedalamin69@gmail.com · [LinkedIn](https://www.linkedin.com/in/md-rashed-al-amin) · [GitHub](https://github.com/Rashed-AlAmin)
 
 ---
 
-## Education
+## 🛠️ Tech Stack
 
-**Bachelor of Science in Computer Science and Engineering**
-- **Institution:** Chittagong University of Engineering and Technology (CUET)
-- **Graduation:** May 2025
-- **CGPA:** 3.46
-
-**Relevant Coursework:** Data Structures and Algorithms, Operating Systems, Computer Architecture, Compiler Design, Computer Networks
-
----
-
-## Technical Skills
-
-**Data Analysis & Statistics**
-- Microsoft Excel, Jupyter Notebook
-
-**Design & Modeling Tools**
-- Microsoft Office, Figma, MATLAB
-
-**Programming Languages**
-- Python, C++, C, Java
-
-**Web Development**
-- MERN Stack (MongoDB, Express.js, React, Node.js), Next.js, JavaFX
+**Languages:** Python · JavaScript · C++ · SQL  
+**Backend:** FastAPI · Node.js · Express.js  
+**Frontend:** React · Next.js · Tailwind CSS  
+**Databases:** PostgreSQL · Firebase (Firestore) · MongoDB  
+**Tools:** Git · Docker · Linux · Vercel · Render
 
 ---
 
-## Professional Experience
+## 🚀 Projects
 
-### Junior Software Engineer
-**BreakByte** | Chittagong, Bangladesh | May 2024 – Jan 2025
+**[TeamSync](https://teamsync-gamma.vercel.app/)** — Real-Time Collaboration Hub  
+Full-stack team workspace with live Firestore-synced messaging, role-based access control, and multi-workspace task assignment.  
+`React` `Node.js` `Express` `Firebase`
 
-- Developed a comprehensive Learning Management System (LMS) using React and Node.js with dynamic content delivery and user authentication
-- Achieved a 30% improvement in student engagement through intuitive interface design and robust functionality
+**[Sports E-Commerce Platform](https://sports-e-commerce.onrender.com/docs)** — Scalable Store  
+Production-grade async backend with OAuth2, transactional order processing, and optimized queries. React storefront in active development.  
+`FastAPI` `PostgreSQL` `React`
 
-### Industrial Attachment
-**Kolpolok Limited** | Dhaka, Bangladesh | Dec 2024 – Jan 2025
-
-- Gained hands-on experience with Software Development Life Cycle (SDLC) methodologies and best practices
-- Studied and implemented front-end architecture patterns including atomic design and feature-based structures
-- Enhanced understanding of scalable and maintainable codebase design
-
----
-
-## Academic Projects
-
-**CUET E-Kroy.com**
-- Web application for an on-campus grocery shop with seamless ordering and delivery features
-
-**CUET TSC Online Food Delivery**
-- Full-featured online food delivery website specifically designed for CUET TSC with menu management and order tracking
-
-**E-Bus CUET**
-- Bus ticket booking system for CUET students that eliminates manual booking processes and streamlines reservations
-
-**Alumni Management Platform**
-- Comprehensive platform enabling alumni to stay connected and receive updates about campus events and activities
+**[FastAPI Social Platform](https://fast-api-social-platform.vercel.app/)** — Social Feed App  
+Full-stack social platform with OAuth2/JWT auth, RESTful API design, and CI/CD deployment.  
+`FastAPI` `React` `PostgreSQL`
 
 ---
 
-## Leadership & Activities
+## 🧩 Problem Solving
 
-**CUET Computer Club**
-- Vice President (past)
-- Industry Relations Chair
-
-**IEEE Computer Society (CUET Branch)**
-- Chair, Web Development Wing (Sep 2024 – Present)
-- Lead web development initiatives and mentor members on modern web technologies
+Solved **300+** problems across competitive programming platforms.  
+[Codeforces](https://codeforces.com/profile/Rashed_Al_Amin) · [LeetCode](https://leetcode.com/u/Rashed_Al_Amin/)
 
 ---
 
-## Areas of Expertise
+## 🎓 Education
 
-- Full-stack web development with MERN stack
-- Machine learning model development and deployment
-- Cloud platform services (AWS, Google Cloud)
-- Database design and management
-- System architecture and design patterns
-- Problem-solving and algorithm optimization
+**B.Sc. in Computer Science and Engineering** — CUET · May 2025 · CGPA 3.46
 
 ---
 
-## Let's Connect
+## 👥 Leadership
 
-I'm always open to discussing software development, collaborating on innovative projects, and exploring opportunities in full-stack development, machine learning, and cloud technologies. Feel free to reach out via email or connect with me on LinkedIn!
+**CUET Computer Club** — Vice President · Industry Relations Chair  
+**IEEE CS CUET** — Chair, Web Development Wing (Sep 2024 – Present)
