@@ -41,7 +41,7 @@ Solved **300+** problems across competitive programming platforms.
 
 ## 🎓 Education
 
-**B.Sc. in Computer Science and Engineering** — CUET · May 2025 · CGPA 3.46
+**B.Sc. in Computer Science and Engineering** — CUET · Aug 2025 · CGPA 3.46
 
 ---
 
