@@ -1,51 +1,60 @@
-# Hey, I'm Rashed 👋
+# Hi, I'm Rashed
 
-Full-Stack Developer and CS graduate from CUET. I build production-grade web apps focused on clean API design, real-time systems, and scalable backends.
+Full-stack engineer working on **AI systems and LLM evaluation**. I build production web apps (TypeScript, Python, Shopify) and the benchmarks that measure whether coding models can actually fix real bugs.
 
-📧 rashedalamin69@gmail.com · [LinkedIn](https://www.linkedin.com/in/md-rashed-al-amin) · [GitHub](https://github.com/Rashed-AlAmin)
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** Python · JavaScript · C++ · SQL  
-**Backend:** FastAPI · Node.js · Express.js  
-**Frontend:** React · Next.js · Tailwind CSS  
-**Databases:** PostgreSQL · Firebase (Firestore) · MongoDB  
-**Tools:** Git · Docker · Linux · Vercel · Render
+[LinkedIn](https://www.linkedin.com/in/md-rashed-al-amin) · [Portfolio](https://portfolio-lake-eight-b8yon5rijt.vercel.app) · rashedalamin69@gmail.com
 
 ---
 
-## 🚀 Projects
+## Focus
 
-**[TeamSync](https://teamsync-gamma.vercel.app/)** — Real-Time Collaboration Hub  
-Full-stack team workspace with live Firestore-synced messaging, role-based access control, and multi-workspace task assignment.  
+- **LLM evaluation** — authoring SWE-bench-style coding tasks with hidden tests and mechanical leak checks
+- **Agentic workflows** — LLM-powered assistants and agents wired into live products
+- **Full-stack delivery** — architecture through deployment, including end-to-end Shopify solutions
+
+## Stack
+
+**Languages:** TypeScript · Python · JavaScript · SQL · C++
+**Backend:** Node.js · Express · FastAPI · GraphQL · Prisma
+**Frontend:** React · Next.js · Tailwind CSS
+**Data and infra:** PostgreSQL · MongoDB · Redis · Docker · Nginx · Linux
+**Platforms:** Shopify (Liquid, theme and storefront extensions) · Vercel · Render
+
+---
+
+## Selected work
+
+**[swe-task-bench](https://github.com/Rashed-AlAmin/swe-task-bench)** — Coding-model benchmark
+16 real bugs mined from merged `pallets/click` pull requests. Symptom-only problem statements, hidden fail-to-pass and pass-to-pass tests, and 96 graded agent runs.
+`Python` `Evaluation` `Docker`
+
+**[Fitness Food Lab](https://github.com/Rashed-AlAmin/shopify-gym-food-lab)** — Shopify theme
+Custom Dawn-based theme using advanced Liquid, metafields, the Cart Ajax API and the Draft Orders API.
+`Shopify` `Liquid` `JavaScript`
+
+**[TeamSync](https://teamsync-gamma.vercel.app/)** — Real-time collaboration hub
+Team workspace with live Firestore-synced messaging, role-based access control and multi-workspace task assignment.
 `React` `Node.js` `Express` `Firebase`
 
-**[Sports E-Commerce Platform](https://sports-e-commerce.onrender.com/docs)** — Scalable Store  
-Production-grade async backend with OAuth2, transactional order processing, and optimized queries. React storefront in active development.  
+**[Sports E-Commerce Platform](https://sports-e-commerce.onrender.com/docs)** — Async store backend
+OAuth2, transactional order processing and optimized queries.
 `FastAPI` `PostgreSQL` `React`
 
-**[FastAPI Social Platform](https://fast-api-social-platform.vercel.app/)** — Social Feed App  
-Full-stack social platform with OAuth2/JWT auth, RESTful API design, and CI/CD deployment.  
+**[FastAPI Social Platform](https://fast-api-social-platform.vercel.app/)** — Social feed app
+OAuth2/JWT auth, RESTful API design and CI/CD deployment.
 `FastAPI` `React` `PostgreSQL`
 
 ---
 
-## 🧩 Problem Solving
+## Problem solving
 
-Solved **300+** problems across competitive programming platforms.  
-[Codeforces](https://codeforces.com/profile/Rashed_Al_Amin) · [LeetCode](https://leetcode.com/u/Rashed_Al_Amin/)
+300+ problems solved on [Codeforces](https://codeforces.com/profile/Rashed_Al_Amin) and [LeetCode](https://leetcode.com/u/Rashed_Al_Amin/).
 
----
-
-## 🎓 Education
+## Education
 
 **B.Sc. in Computer Science and Engineering** — CUET · Aug 2025 · CGPA 3.46
 
----
+## Leadership
 
-## 👥 Leadership
-
-**CUET Computer Club** — Vice President · Industry Relations Chair  
-**IEEE CS CUET** — Chair, Web Development Wing (Sep 2024 – Present)
+**CUET Computer Club** — Vice President · Industry Relations Chair
+**IEEE CS CUET** — Chair, Web Development Wing
